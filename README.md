@@ -21,4 +21,21 @@ Useful for evaluating SEO implementation for **rich snippets** and **search engi
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
+```bash
+git clone https://github.com/Aditi-Rani/schema-scraper
+```
+```bash
+cd schema-scraper
+```
+###  2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+###  3. Run the Script
+```bash
+python schema_scraper.py
+```
+```bash
+Enter the URL to check schema markup: https://www.example.com
+```
 
